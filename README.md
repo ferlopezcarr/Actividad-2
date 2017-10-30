@@ -34,5 +34,6 @@ Escribe dentro del fichero el nombre y apellidos de los componentes
 
 ### Issues
 
+Fernando López Carrión
 
 [[https://github.com/StoneyJackson/github-workflow-activity]]
